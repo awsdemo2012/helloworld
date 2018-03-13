@@ -1,3 +1,4 @@
+// This is a simple hello world project for node.
 var http = require('http');
 
 function onRequest(request, response) {
